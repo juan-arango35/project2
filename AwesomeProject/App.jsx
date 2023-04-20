@@ -4,7 +4,7 @@ import React from 'react'
 export default function App() {
   return (
     <View>
-      <Text> segunda prueba de react-native-primer cambio</Text>
+      <Text> cambiamos a la rama main</Text>
     </View>
   )
 }
